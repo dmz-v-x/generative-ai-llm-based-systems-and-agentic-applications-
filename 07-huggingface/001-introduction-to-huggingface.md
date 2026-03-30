@@ -1,4 +1,4 @@
-## Complete Beginner-to-Advanced Guide to Hugging Face
+## Introduction to HuggingFace
 
 ### 1. What is Hugging Face
 
